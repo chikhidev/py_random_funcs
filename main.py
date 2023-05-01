@@ -6,10 +6,10 @@ import time
 import random
 
 # The GitHub repository URL
-repo_url = "https://github.com/topics/python-functions"
+repo_url = "https://github.com/milaan9/04_Python_Functions"
 
 # The directory where you want to extract the functions
-output_dir = "/path/to/output/directory"
+output_dir = "./"
 
 # Download the repository archive
 r = requests.get(repo_url + "/archive/refs/heads/main.zip")
