@@ -1,4 +1,4 @@
 *.lock
 *.toml
 *.nix
-venv
+venv/
